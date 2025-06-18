@@ -2,9 +2,9 @@
 
 * [Welcome](README.md)
 
-## Getting Started
+## General
 
-* [Quickstart](getting-started/quickstart.md)
+* [Advertiser API - Documentation Guide (v1.0) \[BETA\]](general/advertiser-api-documentation-guide-v1.0-beta.md)
 
 ## For Advertisers
 
