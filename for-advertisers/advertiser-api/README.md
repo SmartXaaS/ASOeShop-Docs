@@ -2,11 +2,15 @@
 
 **Overview:**
 
-* [Campaign Add API:](advertiser-api.md#h_01gt9b9gcscfme8jvdy8qf1dv8)
-* [Application List API:](advertiser-api.md#h_01gt9b9gcscfme8jvdy8qf1dv8x)
-* [Keyword List API:](advertiser-api.md#h_01gt9b9gcscfme8jvdy8qf1dv8y)
+* [Campaign Add API:](./#h_01gt9b9gcscfme8jvdy8qf1dv8)
+* [Application List API:](./#h_01gt9b9gcscfme8jvdy8qf1dv8x)
+* [Keyword List API:](./#h_01gt9b9gcscfme8jvdy8qf1dv8y)
 
 ### Campaign Add API: <a href="#h_01gt9b9gcscfme8jvdy8qf1dv8" id="h_01gt9b9gcscfme8jvdy8qf1dv8"></a>
+
+| **API Name** | **End Point**                                                                | **API Doc**                                                                                                                                                                                       |
+| ------------ | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Campaign Add | https://api.asoeshop.com/campaign/add?apikey=\[APIKEY]\&platform=\[PLATFORM] | [https://documenter.getpostman.com/view/6925801/2s93zH2z9U#15144241-d0f9-46c6-ae2f-30eafcc83eff](https://documenter.getpostman.com/view/6925801/2s93zH2z9U#15144241-d0f9-46c6-ae2f-30eafcc83eff)  |
 
 ### Application List API: <a href="#h_01gt9b9gcscfme8jvdy8qf1dv8x" id="h_01gt9b9gcscfme8jvdy8qf1dv8x"></a>
 
