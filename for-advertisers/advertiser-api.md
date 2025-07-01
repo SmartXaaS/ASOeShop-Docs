@@ -1,14 +1,10 @@
----
-hidden: true
----
-
-# Advertiser API - Documentation Guide (v1.0) \[BETA]
+# Advertiser API
 
 **Overview:**
 
-* [Campaign Add API:](advertiser-api-documentation-guide-v1.0-beta.md#h_01gt9b9gcscfme8jvdy8qf1dv8)
-* [Application List API:](advertiser-api-documentation-guide-v1.0-beta.md#h_01gt9b9gcscfme8jvdy8qf1dv8x)
-* [Keyword List API:](advertiser-api-documentation-guide-v1.0-beta.md#h_01gt9b9gcscfme8jvdy8qf1dv8y)
+* [Campaign Add API:](advertiser-api.md#h_01gt9b9gcscfme8jvdy8qf1dv8)
+* [Application List API:](advertiser-api.md#h_01gt9b9gcscfme8jvdy8qf1dv8x)
+* [Keyword List API:](advertiser-api.md#h_01gt9b9gcscfme8jvdy8qf1dv8y)
 
 ### Campaign Add API: <a href="#h_01gt9b9gcscfme8jvdy8qf1dv8" id="h_01gt9b9gcscfme8jvdy8qf1dv8"></a>
 
