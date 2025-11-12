@@ -2,9 +2,10 @@
 
 * [Welcome](README.md)
 
-## General
+## Getting Started
 
-* [Advertiser API - Documentation Guide (v1.0) \[BETA\]](general/advertiser-api-documentation-guide-v1.0-beta.md)
+* [Authorization](getting-started/authorization.md)
+* [Advertiser API - Documentation Guide (v1.0) \[BETA\]](getting-started/advertiser-api-documentation-guide-v1.0-beta.md)
 
 ## For Advertisers
 
