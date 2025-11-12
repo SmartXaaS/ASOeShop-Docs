@@ -1,3 +1,7 @@
+---
+description: Advertiser API - Documentation Guide (v1.0) [BETA]
+---
+
 # Advertiser API
 
 **Overview:**
