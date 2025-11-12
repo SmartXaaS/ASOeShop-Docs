@@ -60,3 +60,7 @@ curl --location 'https://api.asoeshop.com/campaign/add?platform=android' \
 * Ensure that your API key is active and has the necessary permissions.
 * Double-check the provided URLs for legality and activeness.
 * Monitor your daily cap to avoid exceeding limitations.
+
+{% openapi-operation spec="asoeshop-advertiser-api" path="/campaign/add" method="post" %}
+[OpenAPI asoeshop-advertiser-api](https://4401d86825a13bf607936cc3a9f3897a.r2.cloudflarestorage.com/gitbook-x-prod-openapi/raw/1934dea5e662ff4da6512108c82c8d67a6c7b4337210ae47fe9a1647ce5bcf9f.json?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dce48141f43c0191a2ad043a6888781c%2F20251112%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20251112T081935Z&X-Amz-Expires=172800&X-Amz-Signature=2d52dea84fb99ce3bf9f21410d96d95f5ca5ff583aabcd21f474886fcac2df4e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+{% endopenapi-operation %}
