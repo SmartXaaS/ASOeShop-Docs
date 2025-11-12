@@ -9,6 +9,9 @@
 ## For Advertisers
 
 * [Advertiser API](for-advertisers/advertiser-api/README.md)
-  * [Campaign Add](for-advertisers/advertiser-api/campaign-add.md)
-  * [Application List API](for-advertisers/advertiser-api/application-list-api.md)
-  * [Keyword List API](for-advertisers/advertiser-api/keyword-list-api.md)
+  * [Campaign API](for-advertisers/advertiser-api/campaign-api/README.md)
+    * [Campaign Add](for-advertisers/advertiser-api/campaign-api/campaign-add.md)
+  * [Application API](for-advertisers/advertiser-api/application-api/README.md)
+    * [Application List](for-advertisers/advertiser-api/application-api/application-list.md)
+  * [Keyword API](for-advertisers/advertiser-api/keyword-api/README.md)
+    * [Keyword List](for-advertisers/advertiser-api/keyword-api/keyword-list.md)
